@@ -155,7 +155,7 @@ justify-content: center;
     color: white;
  
 }
-@media(max-width:480px){
+@media(min-width:480px){
     .navsection nav{
         flex-direction: column;
     }
